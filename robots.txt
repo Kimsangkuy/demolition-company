@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+User-agent: Yeti
+User-agent: NaverBot
+Allow: /
+Allow: /naver*.html
+Crawl-delay: 1
+Sitemap: https://[사용자명].github.io/demolition-company/sitemap.xml
